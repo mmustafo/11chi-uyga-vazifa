@@ -1,0 +1,350 @@
+.contactimg{
+     background-image: url(../images/Group\ 8\ \(3\).png) ;
+     background-repeat: no-repeat;
+     background-position: left bottom;
+     
+}
+
+.some-imgs{
+     background-image: url(../images/clients-circle.png);
+     background-repeat: no-repeat;
+     background-position: left top;
+}
+
+.bc-img{
+     background-image: url(../images/Group\ 8\ \(5\).png);
+     background-repeat: no-repeat;
+     background-position: right bottom;
+}
+.mainimgg{
+     background-image: url(../images/Group\ 8\ \(6\).png),url(../images/directors-rect.png);
+     background-repeat: no-repeat;
+     background-position: left  top, right bottom;
+}
+
+.nav{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     margin-top: 7.7rem;
+}
+
+.nav-left{
+     display: flex;
+     align-items: center;
+}
+
+.nav-left img{
+     margin-right: 8rem;
+}
+
+.nav-link-left{
+     display: flex;
+     gap: 4rem;
+     font-size: 18px;
+     font-weight: 600;
+     line-height: 28px;
+     text-align: left;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;
+}
+
+.nav-links a{
+     color: #fff;  
+}
+
+.nav-links a:hover{
+     color: var(--hover);
+     transition: 0.4s;
+}
+
+.nav-right-a{
+     width: 160px;
+     padding: 10px 30px;
+     border: 2px solid var(--oq);
+     font-size: 18px;
+     font-weight: 600;
+     line-height: 28px;
+     text-align: left;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;
+     border-radius: 2rem;
+     color: var(--oq);   
+}
+
+.nav-right-a:hover{
+     background-color: var(--oq);
+     color: var(--qora);
+     border-color: var(--qora);
+}
+.talentt-p{
+     margin-top: 4rem;
+     margin-top: 83px;
+     width: 545px;
+     color: var(--oq);
+     font-size: 18px;
+     font-weight: 600;
+     line-height: 28px;
+     text-align: left;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;
+}
+
+
+.talent-hr {
+     width: 50px;
+     height: 4px;
+     background-color: var(--hover);
+     
+}
+
+.meet {
+     background-color: var(--aboutbacrountcolor);
+}
+ 
+
+
+
+.meet {
+}
+.main-text {
+     padding-bottom: 14rem;
+}
+.main-text-h2 {
+     color: var(--oq);
+     padding-top: 14rem;
+     margin-bottom: 6.4rem;
+     font-size: 48px;
+     font-weight: 700;
+     line-height: 48px;
+     text-align: center;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;
+     
+}
+.main-cards {
+     display: flex;
+     align-items: center;
+     margin-bottom: 76px;
+     /* margin-bottom: 14rem; */
+}
+.main-card {
+     margin-left: 3rem;
+     width: 350px;
+     height: 253px;
+     background-color: var(--bacroundcolormain);
+}
+
+.main-card img{
+     margin: 0 auto;
+     padding-top: 3.2rem;
+     margin-bottom: 1.6rem;
+}
+.card-text-h4 {
+     color: var(--span);
+     font-size: 18px;
+     font-weight: 700;
+     line-height: 28px;
+     text-align: center;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;
+     
+}
+.card-text-h6 {
+     color: var(--oq);
+     font-size: 15px;
+     font-style: italic;
+     font-weight: 500;
+     line-height: 25px;
+     text-align: center;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;
+     margin-bottom: 5.6rem;
+}
+
+#main-card-img{
+     margin-top: -6rem;
+}
+
+#main-card-imgg{
+     margin-top: -8.5rem;
+}
+
+
+
+.some-text-h2{
+     padding-top: 14rem;
+     padding-bottom: 6.4rem;
+     color: var(--oq);
+     font-size: 48px;
+     font-weight: 700;
+     line-height: 48px;
+     text-align: center;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;    
+}
+
+.some {
+     background-color: var(--bacroundcolormain);
+}
+.container {
+}
+.some-text {
+}
+.some-text-h2 {
+}
+.some-logo {
+     display: flex;
+     align-items: center;
+     gap: 7.9rem;
+     padding-bottom: 15.6rem;
+}
+.some-logos {
+}
+
+/* contact */
+
+.some-imgss{
+     width: 180px;
+     /* height: 35px; */
+     object-fit: cover;
+}
+
+.contact {
+     background-color: var(--hover);
+}
+.contact-df {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     width: 100%;
+     max-width: 800px;
+     padding-top: 7.6rem;
+     padding-bottom: 7.6rem;
+}
+.contact-left {
+
+}
+.contact-h2 {
+     font-family: Livvic;
+     font-size: 48px;
+     font-weight: 700;
+     line-height: 48px;
+     text-align: left;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;
+     padding-left: 3rem;
+     
+}
+.right {
+}
+.contact-a {
+     color: var(--qora);
+     padding: 10px 33px;
+     border: 2px solid var(--qora);
+     border-radius: 20px;
+     font-family: Livvic;
+     font-size: 18px;
+     font-weight: 600;
+     line-height: 28px;
+     text-align: left;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none; 
+}
+
+/* footer */
+
+.footer {
+}
+.footer-section {
+     background-color: var(--mainbacroundcolor);
+}
+
+.footer-text {
+     display: flex;
+     justify-content: space-between;
+     padding-top: 4.8rem;
+     padding-bottom: 4.8rem;
+}
+.footer-left {
+     display: flex;
+     gap: 12rem;
+     align-items: center;
+}
+.footer-lf-ul {
+     display: flex;
+     align-items: center;
+     gap: 4rem;
+     padding-top: 2.5rem;
+}
+.nav-links {
+}
+.footer-ul {
+}
+.footer-li {
+}
+.footer-links {
+     font-family: Livvic;
+     font-size: 15px;
+     font-weight: 600;
+     line-height: 25px;
+     text-align: left;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;
+     color: var(--oq);
+     opacity: 0.8;
+     
+}
+.footer-rights a svg path:hover {
+  fill: var(--hover);
+}
+.footer-r-p {
+     font-size: 15px;
+     font-weight: 600;
+     line-height: 25px;
+     text-align: right;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;
+     color: var(--oq);
+     margin-top: 5.6rem;
+     
+}
+
+.footer-li-a{
+     color: var(--oq);
+     font-size: 18px;
+     font-weight: 600;
+     line-height: 28px;
+     text-align: left;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none; 
+}
+
+.footer-right-ul{
+     display: flex;
+     align-items: center;
+     gap: 1.6rem;
+     justify-content: flex-end;
+}
+
+.mt35{
+     padding-top: 35px;
+}
+
+.widt{
+     width: 200px;
+     font-size: 15px;
+     font-weight: 600;
+     line-height: 25px;
+     text-align: center;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;
+     margin: 0 auto;
+     margin-bottom: 12rem;
+     
+}
+
+.main-imgtw{
+     display: flex;
+     margin-bottom: -14.5rem;
+}

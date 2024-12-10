@@ -1,0 +1,112 @@
+.headerimg{
+     background-image: url(../images/Group\ 8.png), url(../images/Group\ 7.png);
+     background-repeat: no-repeat;
+     background-position: left  center, right 165px bottom;
+}
+
+.nav{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     margin-top: 7.7rem;
+}
+
+.nav-left{
+     display: flex;
+     align-items: center;
+}
+
+.nav-left img{
+     margin-right: 8rem;
+}
+
+.nav-link-left{
+     display: flex;
+     gap: 4rem;
+     font-size: 18px;
+     font-weight: 600;
+     line-height: 28px;
+     text-align: left;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;
+}
+
+.nav-links a{
+     color: #fff;  
+}
+
+.nav-links a:hover{
+     color: var(--hover);
+     transition: 0.4s;
+}
+
+.nav-right-a{
+     width: 160px;
+     padding: 10px 30px;
+     border: 2px solid var(--oq);
+     font-size: 18px;
+     font-weight: 600;
+     line-height: 28px;
+     text-align: left;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;
+     border-radius: 2rem;
+     color: var(--oq);   
+}
+
+.nav-right-a:hover{
+     background-color: var(--oq);
+     color: var(--qora);
+     border-color: var(--qora);
+}
+
+
+
+.talent {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding-left: 6.5rem;
+     margin-bottom: 25rem;
+}
+.talent-left {
+}
+.talent-h1 {
+     color: var(--oq);
+     width: 600px;
+     font-size: 100px;
+     font-weight: 700;
+     line-height: 100px;
+     text-align: left;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;
+}
+
+.talent-h1 span{
+     color: var(--hover);
+}
+
+
+.talent-right {
+}
+.talent-hr {
+     width: 50px;
+     height: 4px;
+     background-color: var(--hrcolor);
+     
+}
+.talent-p {
+     margin-top: 83px;
+     color: var(--oq);
+     font-size: 18px;
+     font-weight: 600;
+     line-height: 28px;
+     text-align: left;
+     text-underline-position: from-font;
+     text-decoration-skip-ink: none;
+     
+}
+.main {
+}
+.footer {
+}
